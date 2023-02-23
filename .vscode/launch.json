@@ -7,7 +7,8 @@
         {
             "name": "flutter_dart_3_demo",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
+            "args": ["--enable-experiment=records,patterns"],
         },
         {
             "name": "flutter_dart_3_demo (profile mode)",
